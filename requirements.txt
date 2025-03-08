@@ -1,0 +1,14 @@
+
+---
+
+## **📜 2. requirements.txt (Dependencies List)**  
+
+
+```text
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+jupyter
